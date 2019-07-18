@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "Yeast Beast"
+	"version"     "1.10"
+	"author_name" "Jewson"
+	"info"        "Good old moonshine"
+	"override"    "0"
+}
