@@ -1,8 +1,8 @@
 # Yeast Beast
-Garry's Mod's first alcohol production addon.
+Garry's Mod's first alcohol production addon on the market.
 
 ## What is Yeast Beast?
-It was paid addon made back in 2017. It is first Garry's Mod addon which covered alcohol production more in depth.
+It was first addon to cover moonshine production more in depth. It allows to create mash, ferment it and distil it. It was originally sold on GMS but became free as I didn't have enough time to provide proper support expected from paid product.
 
-## Why abandon it?
-In 2019 I lost ability to provide propper support you would expect from paid product and made decision to ddistribute it for free. So this repository was created and you are free to do whatever you want as the license suggests.
+## Warning
+This adddon is pretty outdated, should still work, but I do not provide any support due to the fact I mentioned above.
